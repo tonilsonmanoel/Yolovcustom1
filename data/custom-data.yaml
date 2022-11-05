@@ -1,0 +1,7 @@
+train: ../data/train
+val: ../data/valid
+test: ../data/test
+
+nc: 2
+names: ['cat', 'dog']
+
